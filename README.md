@@ -1,5 +1,6 @@
-###### Create EC2 instance
-###### Create SNS topic
-###### Create IAM Role for lambda to access SNS topic and Cloudwatch logs
-###### Create a lambda function using python 
-###### Create a trigger cloudwatch event 
+1. Create EC2 instance
+2. Create SNS topic
+3. Create IAM Role for Lambda to access SNS topic and CloudWatch logs
+4. Create a Lambda function using Python
+5. Create a CloudWatch event trigger
+
