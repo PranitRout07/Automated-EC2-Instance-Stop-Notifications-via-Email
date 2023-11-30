@@ -24,3 +24,28 @@
 4.Confirmed the subscription. 
 <img width="1034" alt="Screenshot 2023-11-30 160609" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/276b9227-aaa3-4a00-8898-382c81d1504f">
 
+5.Created policy for SNS service and Cloudwatch logs
+<img width="1268" alt="Screenshot 2023-11-30 160808" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/068da52a-a6c6-4505-9a91-534277b4f65d">
+
+<img width="1264" alt="Screenshot 2023-11-30 160831" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/85a80c0e-ba1f-4ba8-a394-9d6ff54f3d5e">
+
+6.Created a role for lambda service
+<img width="1265" alt="Screenshot 2023-11-30 160939" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/a89705a5-cecc-4417-b9da-0907f133e9f0">
+
+7.Attached policy to the role created
+<img width="1267" alt="Screenshot 2023-11-30 160959" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/ec014bc2-463e-4549-81ee-e92aab5cf74f">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
