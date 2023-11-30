@@ -35,8 +35,23 @@
 7.Attached policy to the role created
 <img width="1267" alt="Screenshot 2023-11-30 160959" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/ec014bc2-463e-4549-81ee-e92aab5cf74f">
 
+8.Created a lambda function using python 3.8 and attached above role created to it
+<img width="1270" alt="Screenshot 2023-11-30 161226" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/7ee62b25-da27-441a-b5c0-00df1dd3e8ed">
+<img width="1242" alt="Screenshot 2023-11-30 161259" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/93171c1d-8e5c-4d9d-922e-8d85b306517c">
 
+9.Using boto3 liabrary written the lambda fucntion 
+<img width="1267" alt="Screenshot 2023-11-30 161735" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/85ed995a-df86-4c87-b92c-e1231dec9e77">
 
+10.Added a cloudwatch event trigger . It detects the when the ec2 instance in running state 
+<img width="1267" alt="Screenshot 2023-11-30 162028" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/86f84541-9984-41ee-aea9-539314193618">
+<img width="1268" alt="Screenshot 2023-11-30 162043" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/72d25335-d11d-4a2e-995c-2782e23cfc52">
+
+11.Added another cloudwatch event trigger . It detects when the ec2 instance is in stopped state 
+<img width="1268" alt="Screenshot 2023-11-30 162205" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/1a2a710f-b12c-423d-9e47-fe302bc8975b">
+<img width="1267" alt="Screenshot 2023-11-30 162222" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/c7a59800-14c2-4662-869e-39ed852baf6b">
+
+12.See the lambda function diagram 
+<img width="1267" alt="Screenshot 2023-11-30 162246" src="https://github.com/PranitRout07/Automated-EC2-Instance-Stop-Notifications-via-Email/assets/102309095/d477cdc4-d302-4231-9277-a74139b4b318">
 
 
 
